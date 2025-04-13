@@ -30,7 +30,7 @@ Introducir en la terminal:
 ```
 *o en su defecto, si no es reconocido, ejecute:*
 ```bash
-   .\GeneradorCombinaciones
+   ./GeneradorCombinaciones
 ```
 <br>
 

@@ -22,7 +22,7 @@ Introducir en la terminal:
 ```
 ***Compilación:***
 ```bash
-   g++ -o "Archivo .cpp/Generador-Combinaciones-CPP" Generador-Combinaciones-CPP.cpp
+   g++ -o "Archivo .cpp/Generador-Combinaciones-CPP.cpp" Generador-Combinaciones-CPP
 ```
 ***Ejecución:***
 ```bash

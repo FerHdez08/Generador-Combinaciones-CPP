@@ -121,9 +121,9 @@ El programa genera los resultados en un archivo CSV con el siguiente formato:
 
 ---
 
-## Verificación C(n,r):
+## Verificación C(n,r)
 
-El programa incluye un sistema de verificación para garantizar que se generaron todas las combinaciones correctamente:
+El programa incluye un sistema de verificación para garantizar que se generaron todas las combinaciones correctamente.
 
 ### Mecanismo de Verificación
 1. **Cálculo Teórico**:

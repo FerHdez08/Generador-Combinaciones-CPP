@@ -1,5 +1,5 @@
 # Generador-Combinaciones-CPP
-Programa que genera todas las combinaciones de (n,r) en orden lexicográfico creciente que son exportadas a un archivo .csv 
+Programa que genera todas las combinaciones de (n,r) en orden lexicográfico creciente que son exportadas a un archivo CSV
 
 **Autor:** María Fernanda Hernández García
 

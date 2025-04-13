@@ -55,7 +55,7 @@ Este programa genera todas las **combinaciones de tamaño r** de un conjunto bas
    - **incrementa y ajusta**:
      - aumenta s[m] en 1.
      - los elementos a la derecha de m se rellenan en secuencia creciente (s[j] = s[j-1] + 1).
-   - **Guarda cada combinación** en el archivo CSV.
+   - **guarda cada combinación** en el archivo CSV.
 
 3. **Terminación**:
    - el proceso termina cuando no quedan elementos por incrementar (m < 0), indicando que se generaron todas las combinaciones.

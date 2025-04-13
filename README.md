@@ -22,15 +22,15 @@ Introducir en la terminal:
 ```
 ***Compilación:***
 ```bash
-   g++ "Archivo CPP/Generador-Combinaciones-CPP.cpp" -o Generador-Combinaciones-CPP
+   g++ "GeneradorCombinaciones.cpp" -o GeneradorCombinaciones
 ```
 ***Ejecución:***
 ```bash
-   Generador-Combinaciones-CPP
+   GeneradorCombinaciones
 ```
 *o en su defecto, si no es reconocido, ejecute:*
 ```bash
-   .\Generador-Combinaciones-CPP
+   .\GeneradorCombinaciones
 ```
 <br>
 
